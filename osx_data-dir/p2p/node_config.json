@@ -1,0 +1,6 @@
+{
+  "listen_endpoint": "0.0.0.0:2001",
+  "accept_incoming_connections": true,
+  "wait_if_endpoint_is_busy": true,
+  "private_key": "15a5b856d5b7311319a8e046622308b70855d89d63163b79ca47b40e062b040a"
+}
